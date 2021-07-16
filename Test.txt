@@ -1,4 +1,8 @@
 Adithi and advita
 Prasad
 check in changes to test-2 branch
+<<<<<<< HEAD
 Additional changes to branch test-2
+=======
+changes made in git directly
+>>>>>>> branch 'TEST-2' of https://github.com/sarikaamidala24/third-project.git
